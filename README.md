@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bamlak Haile</h1>
 <h3 align="center">Frontend Developer Specializing in Responsive and Dynamic Websites</h3>
 
-- 🔭 I’m currently working on [SnackSphere](https://github.com/Bamlak11/SnackSphere)
+- 🔭 I’m currently working on [SolidCraft-Builders](https://github.com/Bamlak11/SolidCraft-Builders)
 
-- 🌱 I’m currently learning **API's**
+- 🌱 I’m currently learning **TypeScript and API's**
 
 - 💬 Ask me about **HTML, CSS, and React**
 
